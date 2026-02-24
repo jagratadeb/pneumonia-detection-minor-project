@@ -3,6 +3,9 @@
 **GitHub Repository:**  
 https://github.com/jagratadeb/pneumonia-detection-minor-project
 
+**Kaggle Dataset:**  
+https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+
 ---
 
 ## 1️⃣ Problem Definition
@@ -30,7 +33,7 @@ This project performs **Binary Classification** on chest X-ray images.
 ### Rules:
 - Test set must remain untouched until final evaluation  
 - Same dataset split must be used for ALL models  
-
+[Click to view dataset in Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 ---
 
 # 🧠 Machine Learning Models
