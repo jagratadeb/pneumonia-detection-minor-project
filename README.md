@@ -38,8 +38,6 @@ This project performs **Binary Classification** on chest X-ray images.
 
 # 🧠 Machine Learning Models
 
-⚠ ML models require feature extraction first.
-
 ---
 
 ## 🔹 Feature Extraction (Common for ML)
