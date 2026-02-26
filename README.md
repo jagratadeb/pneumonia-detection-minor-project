@@ -13,6 +13,10 @@ This project presents a comprehensive comparative analysis of machine learning a
 
 ---
 
+## Contributors
+
+---
+
 ## 1. Introduction
 
 ### 1.1 Problem Statement
