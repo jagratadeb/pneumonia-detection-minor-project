@@ -13,10 +13,6 @@ This project presents a comprehensive comparative analysis of machine learning a
 
 ---
 
-## Contributors
-
----
-
 ## 1. Introduction
 
 ### 1.1 Problem Statement
@@ -245,6 +241,16 @@ This study presents a systematic comparison of machine learning and deep learnin
 3. All evaluated models show promise for clinical application
 
 Further evaluation of remaining models (SVM, ResNet-50, VGGNet-16) will provide additional insights into the trade-offs between model complexity, computational efficiency, and classification performance.
+
+---
+
+## Contributors
+
+- Jagrata Deb
+- Baibhab Majumder
+- Anik Roy
+- Ayushman Nanda
+- Ayush Pradhan
 
 ---
 
