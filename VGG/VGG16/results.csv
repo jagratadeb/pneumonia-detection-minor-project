@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,Specificity,F1-Score,ROC-AUC
+VGG-16,0.9902,0.9695,0.9455,0.9961,0.9574,0.999
